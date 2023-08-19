@@ -1,0 +1,3 @@
+class Praktikun{
+main()
+}
